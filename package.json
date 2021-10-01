@@ -1,0 +1,29 @@
+{
+  "name": "fdoc-be-7-yogesh312",
+  "version": "1.0.0",
+  "description": "## TODO List with Postgres/Sequelize",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc-be-7-yogesh312.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc-be-7-yogesh312/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc-be-7-yogesh312#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.5"
+  }
+}
